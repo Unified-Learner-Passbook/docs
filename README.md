@@ -52,6 +52,7 @@
 ### 11. Developer Workflow
 ### 12. JIRA
 ### 13. Ownership and Contributors
+### 14. Testing
 
 ## External Review
 ### 1. Design Council
