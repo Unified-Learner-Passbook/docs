@@ -56,6 +56,7 @@
 ### 13. Ownership and Contributors
 ### 14. Testing
 ### 15. Versioning and Milestoning
+### 16. Log Management
 
 ## External Review
 ### 1. Design Council
