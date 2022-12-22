@@ -1,6 +1,8 @@
 # Technical Documentation
 
 ### 1. Scope of Development
+  - Need for it
+  - Use Cases
 ### 2. Building Blocks
   - Integration between them
   - External implementation that should be part of it
@@ -53,6 +55,7 @@
 ### 12. JIRA
 ### 13. Ownership and Contributors
 ### 14. Testing
+### 15. Versioning and Milestoning
 
 ## External Review
 ### 1. Design Council
